@@ -7,8 +7,9 @@ OBJECTIVE:
 2. Study of signal conditioning circuit.
 3. Study of LVDT as transducer.
 
-Apparatus Required
-<img width="620" height="167" alt="image" src="https://github.com/user-attachments/assets/6fb40928-c719-4422-8968-c8c13cffcb7f" />
+Apparatus Required:
+<img width="1616" height="831" alt="image" src="https://github.com/user-attachments/assets/6320991f-7200-42ce-98b5-2dc76884f3db" />
+
 
 Circuit Diagram:
 
@@ -27,9 +28,12 @@ voltages are noted down.
 7. The screw gauge is adjusted for maximum displacement and then stopped.
 8. A graph between displacement and output voltage is drawn.
 
+tABULAR COLUMN:
+<img width="606" height="794" alt="image" src="https://github.com/user-attachments/assets/a633fe2d-8672-4e77-87ad-e15c8b9ade96" />
 
-<img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
+<img width="1135" height="526" alt="image" src="https://github.com/user-attachments/assets/b0018c38-d803-4a9e-89d4-cd2d199cdcaf" />
 
 RESULT:
+LVDT characteristics are observed and studied. It is found that for a particular range, there is linear relationship between displacement and the output voltage of LVDT.
 
 
